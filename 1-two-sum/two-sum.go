@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-type Problem struct {
+type Solution struct {
 }
 
-func (*Problem) calculate(nums []int, target int) []int {
+func (*Solution) calculate(nums []int, target int) []int {
 	nmap := make(map[int]int)
 	for i, num := range nums {
 		complement := target - num
@@ -19,9 +19,9 @@ func (*Problem) calculate(nums []int, target int) []int {
 }
 
 func main() {
-	problem := Problem{}
+	solution := new(Solution)
 	nums := []int{2, 7, 11, 15}
 	target := 9
-	result := problem.calculate(nums, target)
+	result := solution.calculate(nums, target)
 	fmt.Println(result)
 }

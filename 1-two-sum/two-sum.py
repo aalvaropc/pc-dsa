@@ -1,7 +1,7 @@
 from typing import List
 
 
-class Problem:
+class Solution:
     def calculate(self, nums: List[int], target: int) -> List[int]:
         nmap: dict[int, int] = {}
         for i, num in enumerate(nums):
@@ -12,10 +12,10 @@ class Problem:
         return []
 
 if __name__ == '__main__':
-    problem = Problem()
+    solution = Solution()
 
     nums = [2,7,11,15]
     target = 9
 
-    result = problem.calculate(nums, target)
+    result = solution.calculate(nums, target)
     print(result)
