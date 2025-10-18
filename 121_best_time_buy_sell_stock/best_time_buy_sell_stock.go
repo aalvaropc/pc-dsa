@@ -5,7 +5,7 @@ import "fmt"
 type Solution struct {
 }
 
-func (*Solution) max_profit(prices []int) int {
+func (*Solution) maxProfit(prices []int) int {
 	min_prices := int(^uint(0) >> 1)
 	max_profit := 0
 	for _, price := range prices {
@@ -22,6 +22,6 @@ func (*Solution) max_profit(prices []int) int {
 func main() {
 	solution := new(Solution)
 	prices := []int{7, 1, 5, 3, 6, 4}
-	result := solution.max_profit(prices)
+	result := solution.maxProfit(prices)
 	fmt.Println(result)
 }
