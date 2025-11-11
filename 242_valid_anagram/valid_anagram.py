@@ -1,5 +1,5 @@
 class Solution:
-    def is_anagram(self, s: str, t: str) -> bool:  
+    def valid_anagram(self, s: str, t: str) -> bool:  
         if len(s) != len(t):
             return False
 
@@ -20,5 +20,5 @@ if __name__ == "__main__":
     s = "anagram"
     t = "nagaram"
 
-    result = solution.is_anagram(s, t)
+    result = solution.valid_anagram(s, t)
     print(result)

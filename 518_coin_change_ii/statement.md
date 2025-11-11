@@ -1,4 +1,4 @@
-# 💰 518. Coin Change II / Cambio de Monedas II
+# 518. Coin Change II / Cambio de Monedas II
 
 ## 🇬🇧 English
 

@@ -1,4 +1,4 @@
-# 📈 300. Longest Increasing Subsequence / Subsecuencia Creciente Más Larga
+# 300. Longest Increasing Subsequence / Subsecuencia Creciente Más Larga
 
 ## 🇬🇧 English
 

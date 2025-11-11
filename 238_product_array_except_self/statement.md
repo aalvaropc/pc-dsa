@@ -1,4 +1,4 @@
-# ⚙️ 238. Product of Array Except Self / Producto del Arreglo Excepto el Mismo
+# 238. Product of Array Except Self / Producto del Arreglo Excepto el Mismo
 
 ## 🇬🇧 English
 

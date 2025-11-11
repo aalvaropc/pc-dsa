@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def calculate(self, nums: List[int], target: int) -> List[int]:
+    def two_sum(self, nums: List[int], target: int) -> List[int]:
         nmap: dict[int, int] = {}
         for i, num in enumerate(nums):
             complement = target - num
@@ -17,5 +17,5 @@ if __name__ == '__main__':
     nums = [2,7,11,15]
     target = 9
 
-    result = solution.calculate(nums, target)
+    result = solution.two_sum(nums, target)
     print(result)

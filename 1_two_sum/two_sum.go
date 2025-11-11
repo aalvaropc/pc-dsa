@@ -5,7 +5,7 @@ import "fmt"
 type Solution struct {
 }
 
-func (*Solution) calculate(nums []int, target int) []int {
+func (s *Solution) two_sum(nums []int, target int) []int {
 	nmap := make(map[int]int)
 	for i, num := range nums {
 		complement := target - num
@@ -22,6 +22,6 @@ func main() {
 	solution := new(Solution)
 	nums := []int{2, 7, 11, 15}
 	target := 9
-	result := solution.calculate(nums, target)
+	result := solution.two_sum(nums, target)
 	fmt.Println(result)
 }

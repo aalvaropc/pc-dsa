@@ -1,4 +1,4 @@
-# 💹 121. Best Time to Buy and Sell Stock / Mejor Momento para Comprar y Vender Acciones
+# 121. Best Time to Buy and Sell Stock / Mejor Momento para Comprar y Vender Acciones
 
 ## 🇬🇧 English
 
