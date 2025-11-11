@@ -16,22 +16,14 @@ Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
-shell
-Copiar código
 
 ### Example 2
 Input: nums = [3,2,4], target = 6
 Output: [1,2]
 
-shell
-Copiar código
-
 ### Example 3
 Input: nums = [3,3], target = 6
 Output: [0,1]
-
-yaml
-Copiar código
 
 ---
 
@@ -60,22 +52,14 @@ Entrada: nums = [2,7,11,15], target = 9
 Salida: [0,1]
 Explicación: Como nums[0] + nums[1] == 9, devolvemos [0, 1].
 
-shell
-Copiar código
-
 ### Ejemplo 2
 Entrada: nums = [3,2,4], target = 6
 Salida: [1,2]
 
-shell
-Copiar código
 
 ### Ejemplo 3
 Entrada: nums = [3,3], target = 6
 Salida: [0,1]
-
-yaml
-Copiar código
 
 ---
 

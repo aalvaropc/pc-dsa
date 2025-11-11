@@ -11,9 +11,6 @@ Given an integer array `nums`, return `true` if any value appears **at least twi
 Input: nums = [1,2,3,1]
 Output: true
 
-shell
-Copiar código
-
 ### Example 2
 Input: nums = [1,2,3,4]
 Output: false
