@@ -1,4 +1,4 @@
-# 🔗 128. Longest Consecutive Sequence / Secuencia Consecutiva Más Larga
+# 128. Longest Consecutive Sequence / Secuencia Consecutiva Más Larga
 
 ## 🇬🇧 English
 

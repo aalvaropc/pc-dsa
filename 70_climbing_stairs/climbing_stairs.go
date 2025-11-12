@@ -4,7 +4,7 @@ import "fmt"
 
 type Solution struct{}
 
-func (s Solution) climbStairs(n int) int {
+func (s *Solution) climbStairs(n int) int {
 	if n <= 2 {
 		return n
 	}

@@ -1,4 +1,4 @@
-# 🔁 217. Contains Duplicate / Contiene Duplicados
+# 217. Contains Duplicate / Contiene Duplicados
 
 ## 🇬🇧 English
 

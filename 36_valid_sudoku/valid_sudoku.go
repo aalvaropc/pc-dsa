@@ -4,7 +4,7 @@ import "fmt"
 
 type Solution struct{}
 
-func (s Solution) validSudoku(board [][]byte) bool {
+func (s *Solution) validSudoku(board [][]byte) bool {
 	var rows, cols, boxes [9]map[byte]bool
 	for i := 0; i < 9; i++ {
 		rows[i] = make(map[byte]bool)

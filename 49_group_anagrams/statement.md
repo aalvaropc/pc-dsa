@@ -1,4 +1,4 @@
-# 🔠 49. Group Anagrams / Agrupar Anagramas
+# 49. Group Anagrams / Agrupar Anagramas
 
 ## 🇬🇧 English
 

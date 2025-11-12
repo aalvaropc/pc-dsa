@@ -7,7 +7,7 @@ import (
 
 type Solution struct{}
 
-func (s Solution) longestIncreasingSubsequence(nums []int) int {
+func (s *Solution) longestIncreasingSubsequence(nums []int) int {
 	sub := []int{}
 
 	for _, x := range nums {

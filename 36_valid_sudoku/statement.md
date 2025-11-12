@@ -1,4 +1,4 @@
-# 🧩 36. Valid Sudoku / Sudoku Válido
+# 36. Valid Sudoku / Sudoku Válido
 
 ## 🇬🇧 English
 

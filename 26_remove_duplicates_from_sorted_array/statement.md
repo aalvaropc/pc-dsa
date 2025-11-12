@@ -1,4 +1,4 @@
-# 🧹 26. Remove Duplicates from Sorted Array / Eliminar Duplicados de un Arreglo Ordenado
+# 26. Remove Duplicates from Sorted Array / Eliminar Duplicados de un Arreglo Ordenado
 
 ## 🇬🇧 English
 

@@ -1,4 +1,4 @@
-# 🧗‍♂️ 70. Climbing Stairs / Escalera de N Peldaños
+# 70. Climbing Stairs / Escalera de N Peldaños
 
 ## 🇬🇧 English
 
