@@ -4,7 +4,7 @@ import "fmt"
 
 type Solution struct{}
 
-func (s Solution) topKFrequentElements(nums []int, k int) []int {
+func (s *Solution) topKFrequentElements(nums []int, k int) []int {
 
 	count := make(map[int]int)
 	for _, n := range nums {
