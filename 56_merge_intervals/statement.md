@@ -1,4 +1,4 @@
-# 🧩 56. Merge Intervals / Unir Intervalos
+# 56. Merge Intervals / Unir Intervalos
 
 ## 🇬🇧 English
 

@@ -1,4 +1,4 @@
-# 🔤 242. Valid Anagram / Anagrama Válido
+# 242. Valid Anagram / Anagrama Válido
 
 ## 🇬🇧 English
 

@@ -1,4 +1,4 @@
-# 💥 53. Maximum Subarray / Subarreglo Máximo
+# 53. Maximum Subarray / Subarreglo Máximo
 
 ## 🇬🇧 English
 

@@ -1,9 +1,9 @@
-from typing import List
+from typing import List, Dict
 
 
 class Solution:
     def two_sum(self, nums: List[int], target: int) -> List[int]:
-        nmap: dict[int, int] = {}
+        nmap: Dict[int, int] = {}
         for i, num in enumerate(nums):
             complement = target - num
             if complement in nmap:

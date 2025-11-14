@@ -4,7 +4,7 @@ import "fmt"
 
 type Solution struct{}
 
-func (s *Solution) maximunSubarray(nums []int) int {
+func (s *Solution) maximumSubarray(nums []int) int {
 	currentSum := nums[0]
 	maxSum := nums[0]
 
@@ -24,5 +24,5 @@ func (s *Solution) maximunSubarray(nums []int) int {
 func main() {
 	nums := []int{-2, 1, -3, 4, -1, 2, 1, -5, 4}
 	s := Solution{}
-	fmt.Println(s.maximunSubarray(nums))
+	fmt.Println(s.maximumSubarray(nums))
 }

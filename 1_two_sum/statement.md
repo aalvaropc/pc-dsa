@@ -1,4 +1,4 @@
-# 🧩 1. Two Sum / Suma de Dos
+# 1. Two Sum / Suma de Dos
 
 ## 🇬🇧 English
 

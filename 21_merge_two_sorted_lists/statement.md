@@ -1,4 +1,4 @@
-# 🔗 21. Merge Two Sorted Lists / Mezclar Dos Listas Enlazadas Ordenadas
+# 21. Merge Two Sorted Lists / Mezclar Dos Listas Enlazadas Ordenadas
 
 ## 🇬🇧 English
 

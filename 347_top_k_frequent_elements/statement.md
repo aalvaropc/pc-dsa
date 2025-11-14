@@ -1,4 +1,4 @@
-# 📊 347. Top K Frequent Elements / K Elementos Más Frecuentes
+# 347. Top K Frequent Elements / K Elementos Más Frecuentes
 
 ## 🇬🇧 English
 

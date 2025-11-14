@@ -1,4 +1,4 @@
-# 🔐 271. Encode and Decode Strings / Codificar y Decodificar Cadenas
+# 271. Encode and Decode Strings / Codificar y Decodificar Cadenas
 
 ## 🇬🇧 English
 

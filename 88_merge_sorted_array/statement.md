@@ -1,4 +1,4 @@
-# 🧮 88. Merge Sorted Array / Mezclar Arreglos Ordenados
+# 88. Merge Sorted Array / Mezclar Arreglos Ordenados
 
 ## 🇬🇧 English
 
